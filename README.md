@@ -1,7 +1,8 @@
 # laravel-react-simple-admin.page
-It has an admin middleware if "admin" column (on users table) change 1,can go home page.
-You can see admin and normal users and you can create new categories or edit.
-This project is for practice.
+   It has an admin middleware if "admin" column (on users table) change 1,can go home page.
+   You can see admin and normal users and you can create new categories or edit.
+   This project is for practice.
+   
 
 ## Installation
 
